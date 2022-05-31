@@ -1,0 +1,22 @@
+{
+  "name": "hospital-api",
+  "version": "1.0.0",
+  "description": "Hospital API ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NitishNaskar/Hospital-API.git"
+  },
+  "author": "Nitish Ranjan Naskar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NitishNaskar/Hospital-API/issues"
+  },
+  "homepage": "https://github.com/NitishNaskar/Hospital-API#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
