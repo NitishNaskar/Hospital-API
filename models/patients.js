@@ -1,1 +1,1 @@
-const mongoose=require("../config/mongoose");
+const mongoose=require("mongoose");
